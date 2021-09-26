@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "address",
+      "type": "com.example.IP.bean.Address",
+      "sourceType": "com.example.IP.bean.Address"
+    },
+    {
+      "name": "data",
+      "type": "com.example.IP.bean.Data",
+      "sourceType": "com.example.IP.bean.Data"
+    }
+  ],
+  "properties": [
+    {
+      "name": "address.ip",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Address"
+    },
+    {
+      "name": "address.loc",
+      "type": "com.example.IP.bean.Data",
+      "sourceType": "com.example.IP.bean.Address"
+    },
+    {
+      "name": "address.ret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Address"
+    },
+    {
+      "name": "data.city",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Data"
+    },
+    {
+      "name": "data.country",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Data"
+    },
+    {
+      "name": "data.district",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Data"
+    },
+    {
+      "name": "data.region",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Data"
+    },
+    {
+      "name": "data.telecom",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Data"
+    },
+    {
+      "name": "data.zip",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Data"
+    },
+    {
+      "name": "data.zone",
+      "type": "java.lang.String",
+      "sourceType": "com.example.IP.bean.Data"
+    }
+  ],
+  "hints": []
+}
